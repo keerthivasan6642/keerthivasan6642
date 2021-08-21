@@ -1,21 +1,62 @@
-### Hi there 👋, Keerthivasan
-A Passionate Frontend Developer and Data Analyst
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-Skills: PYTHON/ REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning  **Data Science, Data Analytics** 
-- 👯 I’m looking to collaborate on **Python** projects and Basic **Web Dev** stuff 
-- 📫 How to reach me: keerthivasan6642@gmail.com 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Keerthivasan</h1>
+<h3 align="center">I'm a passionate Frontend Developer and Data Analyst.</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keerthivasan6642)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://techievasan.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/keerthi-vasan-435197202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/https://www.hackerearth.com/@keerthivasan31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/https://www.hackerrank.com/keerthivasan6642)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/keerthivasan6642/profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/https://www.codechef.com/users/keerthivasan66)  
+## 🙋‍♂️ About Me
+🌱 I’m currently learning Data Science, Data Analytics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keerthivasan6642)](https://github.com/ryo-ma/github-profile-trophy)
+👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthivasan6642&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=keerthivasan6642)  
+- 📫 How to reach me **keerthivasan6642@gmail.com**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=keerthivasan6642)  
 
-![Profile views](https://gpvc.arturio.dev/keerthivasan6642)  
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+     
+  
+</p>
+
+
+
+<p align="center">
+    <a href="https://github.com/keerthivasan6642/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthivasan6642&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/keerthivasan6642/github-readme-stats"><img alt="keerthivasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keerthivasan6642&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/keerthivasan6642/github-readme-stats"><img alt="keerthivasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasan6642&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/keerthivasan6642/github-readme-activity-graph"><img alt="keerthivasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keerthivasan6642&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me
+<p align="left">🤝
+
+<a href = "https://www.linkedin.com/in/keerthi-vasan-435197202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=keerthivasan6642">
+</a>
+<a href="https://github.com/keerthivasan6642?tab=followers"><img src="https://img.shields.io/github/followers/keerthivasan6642?label=Followers&style=social" alt="GitHub Badge"></a>
+
