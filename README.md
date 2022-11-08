@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-🌱 I’m currently learning Data Science, Data Analytics
+🌱 I’m currently learning Big Data
 
 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
 
