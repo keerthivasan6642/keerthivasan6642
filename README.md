@@ -1,14 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Keerthivasan</h1>
-<h3 align="center">I'm a passionate Big Data Developer.</h3>
+<h3 align="center">I'm a passionate Front end developer and Jr.Devops Engineer.</h3>
 
  
 ## 🙋‍♂️ About Me
 
-A Data engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
+A Jr.Devops Engineer. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
-💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+💡 I'm interested in all things data: Containerization, Linux, Kubernetes, Fullstack development.
+
 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
 ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜
